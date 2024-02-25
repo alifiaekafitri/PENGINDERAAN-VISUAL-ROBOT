@@ -1,0 +1,46 @@
+Nama	: Alifia Eka Fitri
+NIM	: 220206501011
+Prodi	: Pendidikan Vokasional Mekatronika
+TUGAS 1
+Mencari beberapa materi mengenai aplikasi GITHUB dari berbagai sumber!
+Dari beberapa materi/video yang saya pelajari dari sumber-sumber tersebut menjelaskan tentang apa itu GIT, Version Control System (VCS) dan GITHUB.
+VCS (Version Control System) adalah sistem yang digunakan untuk melacak perubahan dalam kode atau berkas digital sepanjang waktu. Tujuannya adalah untuk memungkinkan pengembang atau tim untuk bekerja bersama-sama dalam proyek perangkat lunak atau pengembangan konten digital dengan efisien dan terstruktur.
+1.	
+ 
+
+Apa itu GIT? GIT itu salah satu dari Version control system (VCS) atau disebut juga revision control system /source code management  dimana sistem yang mengelola perubahan dari sebuah dokumen, program computer, website dan kumpulan informasi lain. Jadi, GIT itu sebuah VCS distribusi untuk mengelola perubahan file dalam folder.
+Git adalah sebuah sistem kontrol versi yang sangat populer. Ini memungkinkan pengembang perangkat lunak untuk melacak perubahan dalam kode sumber proyek mereka. Dengan Git, Anda dapat menyimpan versi berbagai iterasi dari kode, membuat cabang untuk pengembangan paralel, menggabungkan kode dari berbagai sumber, dan memudahkan kolaborasi tim. Ini adalah alat yang sangat penting dalam pengembangan perangkat lunak modern dan telah menjadi standar de facto di industri perangkat lunak. 
+	
+Adapun beberapa istilah GIT:
+1.	Repository (Repositori): Tempat penyimpanan proyek Git yang berisi semua file, riwayat perubahan, dan metadata terkait.
+2.	Commit: Tindakan menyimpan perubahan ke dalam repositori Git. Setiap commit memiliki pesan yang menjelaskan perubahan yang dilakukan.
+3.	Branch (Cabang): Cabang adalah versi terpisah dari kode yang memungkinkan pengembangan fitur atau perbaikan bug tanpa memengaruhi kode di cabang utama (biasanya disebut sebagai "master" atau "main").
+4.	Merge: Proses menggabungkan perubahan dari satu cabang ke cabang lainnya. Ini dilakukan untuk memperbarui kode di cabang utama dengan perubahan yang telah diselesaikan di cabang lain.
+5.	Pull Request: Permintaan untuk menggabungkan perubahan dari cabang yang dipisahkan ke dalam cabang utama. Ini umumnya digunakan dalam kolaborasi tim, di mana anggota tim dapat memeriksa perubahan sebelum diintegrasikan ke dalam kode utama.
+6.	Remote: Repositori Git yang berada di server eksternal atau cloud. Remote memungkinkan pengembang untuk menyinkronkan perubahan antara repositori lokal dan repositori yang disimpan secara terpusat.
+7.	Clone: Proses menyalin repositori Git yang ada dari repositori remote ke komputer lokal pengguna.
+8.	Pull: Proses mengambil perubahan dari repositori remote dan menggabungkannya ke repositori lokal.
+9.	Push: Proses mengirim perubahan dari repositori lokal ke repositori remote.
+10.	Checkout: Proses untuk beralih antara cabang atau mengembalikan file ke versi sebelumnya.
+11.	Stash: Tempat sementara untuk menyimpan perubahan yang belum selesai tanpa harus melakukan commit.
+12.	Tag: Label yang ditempatkan pada titik tertentu dalam sejarah repositori untuk menandai versi tertentu dari proyek.
+ 
+Tampilan aplikasi GIT
+ 
+
+
+2.	
+ 
+Apa itu GITHUB? Layanan cloud untuk menyimpan & mengelola project/ repo GIT.
+GitHub adalah platform pengembangan perangkat lunak yang menggunakan Git untuk sistem kontrol versi, serta menambahkan berbagai fitur kolaborasi dan manajemen proyek. Ini menyediakan layanan hosting repositori Git, alat kolaborasi, manajemen proyek, dan integrasi dengan berbagai alat pengembangan perangkat lunak.
+
+Berikut beberapa fitur utama dan konsep terkait GitHub:
+1.	Hosting Repositori: GitHub menyediakan tempat untuk menyimpan repositori Git secara publik atau pribadi. Ini memungkinkan pengembang untuk mengakses proyek mereka dari mana saja dengan koneksi internet.
+2.	Kolaborasi: GitHub memungkinkan tim pengembang untuk bekerja bersama dalam proyek dengan mudah. Fitur seperti pull request, isu, dan wiki memfasilitasi komunikasi dan kerja sama antara anggota tim.
+3.	Pull Request: Fitur ini memungkinkan pengembang untuk meminta revisi kode yang mereka lakukan ke repositori utama. Ini memungkinkan rekan tim untuk melakukan tinjauan kode, memberikan umpan balik, dan meminta perubahan sebelum perubahan tersebut diintegrasikan ke dalam kode utama.
+4.	Isu (Issues): GitHub memungkinkan pengguna untuk melaporkan masalah, ide, atau permintaan fitur dalam bentuk isu di repositori. Ini membantu dalam melacak dan menyelesaikan masalah yang terkait dengan proyek.
+5.	Proyek: Fitur ini memungkinkan pengguna untuk mengelola proyek secara visual dengan papan kanban, daftar tugas, dan diagram lintasan. Ini membantu dalam mengatur dan melacak kemajuan proyek.
+6.	Wikis: GitHub menyediakan fitur wiki yang memungkinkan pengguna untuk membuat dokumentasi proyek secara terstruktur dan berbagi pengetahuan dengan rekan tim.
+7.	Integrasi: GitHub memiliki integrasi yang kuat dengan berbagai alat pengembangan perangkat lunak dan layanan lainnya, termasuk alat manajemen proyek, sistem pengujian, dan alat otomatisasi.
+
+GitHub telah menjadi platform yang sangat populer di kalangan pengembang perangkat lunak dan komunitas open source karena menyediakan alat yang kuat untuk kolaborasi, manajemen proyek, dan pengembangan perangkat lunak.
